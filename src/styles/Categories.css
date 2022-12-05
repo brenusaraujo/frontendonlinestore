@@ -1,0 +1,10 @@
+.Categories {
+  display: flex;
+  flex-direction: column;
+  gap: 2px 0;
+}
+
+.Categories_itens {
+  text-align: start;
+  width: 230px;
+}

@@ -1,0 +1,32 @@
+.Search {
+  background-color: rgb(235, 235, 235);
+  display: flex;
+  height: 100%;
+}
+
+.Search_categories {
+  background-color: #999;
+}
+
+.Search_main {
+  padding-top: 20px;
+  width: 100%;
+}
+
+.Search_products {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 0;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+.Search_products a {
+  background-color: #999;
+  border-radius: 10%;
+  width: 30%;
+}
+
+.Search_products img {
+  width: 100px;
+}
